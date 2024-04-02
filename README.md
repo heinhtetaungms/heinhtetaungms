@@ -5,7 +5,9 @@
 
 Hey there 👋
 
-I’m Hein Htet Aung, a passionate junior full-stack engineer, quick learner creative coder who specializes in back-end development.
+Experienced Java Software Engineer with 5 years of experience in developing cutting-edge web applications. Proficient in utilizing
+technologies such as Spring Boot, Hibernate, and React to create scalable solutions. Skilled in full-stack development, RESTful API design, and
+integrating SQL/NoSQL databases.Implemented agile methodologies and AWS services like S3.
 
 ## 📌 Pinned Repositories
 
